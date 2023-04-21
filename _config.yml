@@ -37,9 +37,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 google-site-verification: # à remplir (site de google google reference id)
-include:
-  - _pages
-  - _teachings
+include: ["_pages", "_teachings"]
 
 collections:
   reminders:
@@ -102,17 +100,17 @@ footer:
       #url: "https://instagram.com/"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _teachings
   - scope:
       path: ""
