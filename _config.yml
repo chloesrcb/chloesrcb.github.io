@@ -37,6 +37,16 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 google-site-verification: # à remplir (site de google google reference id)
 include:
   - _pages
+  - _teachings
+
+collections:
+  reminders:
+    output: true
+    permalink: /:collection/:path/
+  teachings:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -62,7 +72,7 @@ plugins:
 author:
   name   : "Chloe Serre-Combe"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD Student in Statistics"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
