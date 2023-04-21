@@ -111,6 +111,20 @@ defaults:
       comments: true
       share: true
       related: true
+  # _teachings
+  - scope:
+      path: ""
+      type: teachings
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      output: true
+      toc: true
+      toc_label: "Contents"
+      toc_icon: "swatchbook"
+      sidebar: main
+      classes: wide
   # _pages
   - scope:
       path: "_pages"
