@@ -1,6 +1,6 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "Teachings"
+    url: /teachings/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
