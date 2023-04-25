@@ -6,7 +6,7 @@ collection: teachings
 classes: wide
 header:
   overlay_color: "#4bafa2"
-  overlay_filter: "0.5"
+  overlay_filter: "0.8"
 ---
 
 List of courses
