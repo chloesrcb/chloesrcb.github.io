@@ -9,5 +9,5 @@ header:
   overlay_filter: "0.2"
 ---
 
-List of courses
+<!-- List of courses -->
 
