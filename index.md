@@ -13,5 +13,5 @@ I am under the supervision of [Gwladys Toulemonde](https://imag.umontpellier.fr/
 ## Research interests
 
 * Extreme Value Theory
-* Dependance modelisation
+* Dependence modelisation
 * Geostatistics
