@@ -3,7 +3,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-My full cv, in French, is available [here]({{ site.url }}/_data/cv.pdf) (last update : May 2022).
+<!-- My full cv, in French, is available [here]({{ site.url }}/_data/cv.pdf) (last update : May 2022). -->
 
 ## Academic Background 
 
