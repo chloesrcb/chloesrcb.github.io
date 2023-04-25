@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Home page
+title: Home
 email: chloe.serre-combe@umontpellier.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Website page.
@@ -70,8 +70,10 @@ plugins:
 
 author:
   name   : "Chloe Serre-Combe"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.jpg"
   bio    : "PhD Student in Statistics"
+  email: "chloe.serre-combe@umontpellier.fr"
+  location: "Montpellier, France"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -82,9 +84,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://fr.linkedin.com/in/chloe-serre-combe-886647185"
+
 
 footer:
   links:
