@@ -75,7 +75,7 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll-include-cache
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-seo-tag
   - jekyll-coffeescript
   - jekyll-commonmark-ghpages
