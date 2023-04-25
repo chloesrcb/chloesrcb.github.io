@@ -36,12 +36,12 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 google-site-verification: "1KKzdcDg0vcscrOx2PwLarNbZWNR4NlEWBywGXiK48g" # google reference id
-include: ["_pages", "_teachings"]
+include: ["_pages", "_teachings", "_data"]
 
 collections:
-  reminders:
-    output: true
-    permalink: /:collection/:path/
+  # reminders:
+  #   output: true
+  #   permalink: /:collection/:path/
   teachings:
     output: true
     permalink: /:collection/:path/
@@ -60,13 +60,33 @@ collections:
 #   - vendor/ruby/
 
 # Plugins (previously gems:)
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
+#   - jekyll-include-cache
+
+
+# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+  - jekyll-commonmark-ghpages
+  - jekyll-github-metadata
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-remote-theme
 
 author:
   name   : "Chloe Serre-Combe"
@@ -75,13 +95,8 @@ author:
   email: "chloe.serre-combe@umontpellier.fr"
   location: "Montpellier, France"
   github: "chloesrcb"
+  gitlab: "cserre-combe"
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://fr.linkedin.com/in/chloe-serre-combe-886647185"
@@ -89,28 +104,32 @@ author:
 
 footer:
   links:
-   # - label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-     # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    #- label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
 
 defaults:
-  # # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-  #     related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      output: true
+      toc: true
+      toc_label: "Contents"
+      toc_icon: "swatchbook"
+      sidebar: main
+      classes: wide
   # _teachings
   - scope:
       path: ""
@@ -125,13 +144,21 @@ defaults:
       toc_icon: "swatchbook"
       sidebar: main
       classes: wide
-  # _pages
+  # _cv
   - scope:
-      path: "_pages"
-      type: pages
+      path: ""
+      type: cv
     values:
       layout: single
       author_profile: true
+      share: false
+      output: true
+      toc: true
+      toc_label: "Contents"
+      toc_icon: "swatchbook"
+      sidebar: main
+      classes: wide
+  
 
 category_archive:
   type: liquid
