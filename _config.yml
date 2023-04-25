@@ -75,7 +75,7 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll-include-cache
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-coffeescript
   - jekyll-commonmark-ghpages
@@ -89,7 +89,7 @@ plugins:
 
 author:
   name   : "Chloe Serre-Combe"
-  avatar : "/assets/images/profile.jpg"
+  avatar : "/_data/images/profile.jpg"
   bio    : "PhD Student in Statistics"
   email: "chloe.serre-combe@umontpellier.fr"
   location: "Montpellier, France"
