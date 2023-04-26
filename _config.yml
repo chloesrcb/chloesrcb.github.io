@@ -23,6 +23,8 @@ github: [metadata]
 search: true
 baseurl: ""
 url: "https://chloesrcb.github.io/"
+logo: "https://www.flaticon.com/free-icons/home-button"
+
 
 # Build settings
 markdown: kramdown
