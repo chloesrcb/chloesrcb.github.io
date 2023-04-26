@@ -7,7 +7,7 @@ author_profile: true
 
 ## Academic Background 
 
-* **2022-2025(?):** PhD in Statistics (*Stochastic generators of extreme precipitation and risk assessment of urban flooding at high spatiotemporal resolution*) under the supervision the supervision of [Gwladys Toulemonde](https://imag.umontpellier.fr/~toulemonde/index.html), [Thomas Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz) and [Nicolas Meyer](https://sites.google.com/view/nicolasmeyer/accueil) at Institut Montpelliérain Alexander Grothendieck (IMAG - University of Montpellier) and the Inria Montpellier in the [LEMON team](https://team.inria.fr/lemon/)
+* **2022-2025(?):** PhD in Statistics (*Stochastic generators of extreme precipitation and risk assessment of urban flooding at high spatiotemporal resolution*) under the supervision of [Gwladys Toulemonde](https://imag.umontpellier.fr/~toulemonde/index.html), [Thomas Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz) and [Nicolas Meyer](https://sites.google.com/view/nicolasmeyer/accueil) at Institut Montpelliérain Alexander Grothendieck (IMAG - University of Montpellier) and the Inria Montpellier in the [LEMON team](https://team.inria.fr/lemon/)
 * **2020-2022:** Master's degree in Statistic and Data Science, at the University of Montpellier, France
 * **2019-2020:** Third year of engineering program in IT and management field, Polytech Montpellier, France
 * **2017-2019:** First and second year of the bachelor's degree in mathematics, University of Aix-Marseille, France
