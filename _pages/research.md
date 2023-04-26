@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 header:
   overlay_color: "#4bafa2"
-  overlay_filter: "0.2"
+  overlay_filter: "0.1"
 classes: wide
 ---
 
