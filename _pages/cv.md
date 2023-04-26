@@ -1,6 +1,10 @@
 ---
 permalink: /cv/
 author_profile: true
+header:
+  overlay_color: "#4bafa2"
+  overlay_filter: "0.2"
+classes: wide
 ---
 
 <!-- My full cv, in French, is available [here]({{ site.url }}/_data/cv.pdf) (last update : May 2022). -->
