@@ -9,6 +9,8 @@
 
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
+    {% include head.html %}
+    {% include head/custom.html %}
     <meta name="google-site-verification" content="6mNgG03CflmG5pEDXjEL18RkEQC-N9NRSk_Z9TNjyW8" />
   </head>
 
@@ -33,6 +35,8 @@
         {% include_cached footer.html %}
       </footer>
     </div>
+    
+    {% include scripts.html %}
 
   </body>
 </html>
