@@ -4,10 +4,6 @@ title: ""
 author_profile: true
 ---
 
-<head>
-    <meta name="google-site-verification" content="6mNgG03CflmG5pEDXjEL18RkEQC-N9NRSk_Z9TNjyW8" />
-</head>
-
 ## General
 
 I'm currently a PhD student in Statistics in Montpellier, France.
