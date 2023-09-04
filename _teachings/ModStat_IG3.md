@@ -1,5 +1,5 @@
 ---
-title: Modélisation et Statistiques (2022-?)
+title: Modélisation et Statistiques (2022-2024)
 ---
 
 # 2022-2023
@@ -10,3 +10,7 @@ This essentially comes down to the basic knowledge required in probability and s
 - Continuous and discrete random variables with classical distributions,
 - Conditional probabilities,
 - Random vectors and independence.
+
+# 2023-2024
+
+Same course with `R` coding pratice.
