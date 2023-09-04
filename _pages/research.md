@@ -8,14 +8,10 @@ header:
 classes: wide
 ---
 
-# Thesis
+<!-- # Thesis
 
-I'm currently working on *Stochastic generators of extreme precipitation and risk assessment of urban flooding at high spatiotemporal resolution*.
+I'm currently working on *Stochastic generators of extreme precipitation and risk assessment of urban flooding at high spatiotemporal resolution*. -->
 
-# Poster
-
-<!-- - June 2023: [*EVA*](https://dec.unibocconi.eu/research/extreme-value-analysis-eva-2023) *Modeling moderate and extreme urban rainfall at
-high spatio-temporal resolution* Bocconi University, Milan -->
 
 # Talks
 
