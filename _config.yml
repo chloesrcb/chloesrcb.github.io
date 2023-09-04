@@ -36,7 +36,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-google-site-verification: "1KKzdcDg0vcscrOx2PwLarNbZWNR4NlEWBywGXiK48g" # google reference id
+google-site-verification: "6mNgG03CflmG5pEDXjEL18RkEQC-N9NRSk_Z9TNjyW8" # google reference id
 include: ["_pages", "_teachings", "_data"]
 
 collections:
