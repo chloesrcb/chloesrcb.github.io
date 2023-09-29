@@ -13,4 +13,4 @@ This essentially comes down to the basic knowledge required in probability and s
 
 # 2023-2024
 
-Same course with `R` coding pratice.
+Same course with `R` coding practice.
