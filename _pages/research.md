@@ -15,9 +15,9 @@ classes: wide
 - July 2023: [*Journées de Statistiques*](https://jds2023.sciencesconf.org/), *Modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, [Université libre de Bruxelles](https://www.ulb.be/), Belgium \[[slides]({{ site.url }}/_data/slides/JDS_2023.pdf)\]
 
 - June 2023: [*EVA*](https://dec.unibocconi.eu/research/extreme-value-analysis-eva-2023), *Modeling moderate and extreme urban rainfall at
-high spatio-temporal resolution*, [Bocconi University](https://www.unibocconi.eu/), Milan \[[poster]({{ site.url }}/_data/slides/EVA_2023.pdf)\]
+high spatio-temporal resolution*, [Bocconi University](https://www.unibocconi.eu/), Milano, Italy \[[poster]({{ site.url }}/_data/slides/EVA_2023.pdf)\]
 
-- June 2023: [*Journée RESSTE*](https://reseau-resste.mathnum.inrae.fr/node/28), *Vers la modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, [FRUMAM Marseille](https://frumam.cnrs-mrs.fr/presentation/), France \[[slides]({{ site.url }}/_data/slides/RESSTE_2023.pdf)\]
+- June 2023: [*Journée RESSTE*](https://reseau-resste.mathnum.inrae.fr/node/28), *Vers la modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, [FRUMAM](https://frumam.cnrs-mrs.fr/presentation/), Marseille, France \[[slides]({{ site.url }}/_data/slides/RESSTE_2023.pdf)\]
 
 
 
