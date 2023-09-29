@@ -10,6 +10,8 @@ classes: wide
 
 # Talks
 
+- September 2023: *Workshop* [*ANR MUFFINS*](https://anr.fr/Projet-ANR-21-CE04-0021), *Modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, Aix-en-Provence, France \[[slides]({{ site.url }}/_data/slides/MUFFINS_2023.pdf)\]
+
 - July 2023: [*Journées de Statistiques*](https://jds2023.sciencesconf.org/), *Modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, [Université libre de Bruxelles](https://www.ulb.be/), Belgium \[[slides]({{ site.url }}/_data/slides/JDS_2023.pdf)\]
 
 - June 2023: [*EVA*](https://dec.unibocconi.eu/research/extreme-value-analysis-eva-2023), *Modeling moderate and extreme urban rainfall at
