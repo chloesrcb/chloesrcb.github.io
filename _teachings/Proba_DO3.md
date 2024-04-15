@@ -1,5 +1,5 @@
 ---
-title: Probability Modeling and Statistics (2023)
+title: Probability, Modeling and Statistics (2023)
 ---
 
 # 2023 
