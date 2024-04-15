@@ -1,5 +1,5 @@
 ---
-title: HAS202X - Outils mathématiques 3 (2022-2023)
+title: HAS202X - Linear Algebra (2022-2023)
 ---
 
 # 2022-2023
