@@ -8,6 +8,5 @@ Undergraduate course and exercises (in French) in the third year of the engineer
 This essentially comes down to the basic knowledge required in probability and statistics.
 
 Details:
-- Discrete and continuous random variables with classical distributions, conditional probabilities.
+- Discrete and continuous random variables, conditional probabilities.
 - Courses, exercises, exam writing and marking.
-
