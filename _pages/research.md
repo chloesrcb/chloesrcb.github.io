@@ -10,6 +10,12 @@ classes: wide
 
 # Talks
 
+- May 2024: [*Journées de Statistiques*](https://jds2024.sciencesconf.org/), *Modeling moderate and extreme urban rainfall at
+high spatio-temporal resolution*, Bordeaux, France \[[paper]({{ site.url }}/_data/papers/JDS_2024.pdf)\]
+
+- April 2024: [*Rencontres des Jeunes Statisticiens*](https://rjs2024.sciencesconf.org/), *Modeling moderate and extreme urban rainfall at
+high spatio-temporal resolution*, Porquerolles, France \[[slides]({{ site.url }}/_data/slides/RJS_2024.pdf)\]
+
 - September 2023: *Workshop* [*ANR MUFFINS*](https://anr.fr/Projet-ANR-21-CE04-0021), *Modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, Aix-en-Provence, France \[[slides]({{ site.url }}/_data/slides/MUFFINS_2023_modif.pdf)\]
 
 - July 2023: [*Journées de Statistiques*](https://jds2023.sciencesconf.org/), *Modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, [Université libre de Bruxelles](https://www.ulb.be/), Belgium \[[paper]({{ site.url }}/_data/papers/JDS_2023.pdf)\], \[[slides]({{ site.url }}/_data/slides/JDS_2023.pdf)\]
