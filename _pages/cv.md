@@ -8,7 +8,7 @@ header:
 classes: wide
 ---
 
-My full cv, in english, is available [here]({{ site.url }}/_data/resume/resume.pdf) (last update: April 2024).
+My full cv, in english, is available [here]({{ site.url }}/_data/resume/resume.pdf) (last update: May 2024).
 
 ## Academic Background 
 
