@@ -10,6 +10,11 @@ classes: wide
 
 # Talks
 
+- June 2024: [*IMSC*](https://jds2024.sciencesconf.org/), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, Toulouse, France 
+
+- June 2024: [*Journées MIPS*](https://jds2024.sciencesconf.org/), *Modeling moderate and extreme urban rainfall at
+high spatio-temporal resolution*, Montpellier, France \[[paper]({{ site.url }}/_data/papers/MIPS_2024.pdf)\]
+
 - May 2024: [*Journées de Statistiques*](https://jds2024.sciencesconf.org/), *Modeling moderate and extreme urban rainfall at
 high spatio-temporal resolution*, Bordeaux, France \[[paper]({{ site.url }}/_data/papers/JDS_2024.pdf)\]
 
