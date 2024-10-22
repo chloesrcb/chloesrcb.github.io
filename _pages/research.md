@@ -10,7 +10,9 @@ classes: wide
 
 # Talks
 
-- June 2024: [*IMSC*](https://jds2024.sciencesconf.org/), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, Toulouse, France 
+- July 2024: [*EVAN*](https://www.istitutoveneto.it/evan2024), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, Istituto Veneto di Scienze, Lettere ed Arti, Venice, Italy
+
+- June 2024: [*IMSC*](https://jds2024.sciencesconf.org/), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, Météo France, Toulouse, France 
 
 - June 2024: [*Journées MIPS*](https://jds2024.sciencesconf.org/), *Modeling moderate and extreme urban rainfall at
 high spatio-temporal resolution*, Montpellier, France \[[paper]({{ site.url }}/_data/papers/MIPS_2024.pdf)\]
