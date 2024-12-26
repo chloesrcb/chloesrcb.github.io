@@ -12,7 +12,7 @@ classes: wide
 
 - December 2024: [*Séminaire Occimath*](https://indico.math.cnrs.fr/event/13025/), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, IMT, Toulouse, France \[[slides]({{ site.url }}/_data/slides/Occimath_2024.pdf)\]
 
-- July 2024: [*EVAN*](https://www.istitutoveneto.it/evan2024), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, Istituto Veneto di Scienze, Lettere ed Arti, Venice, Italy \[[paper]({{ site.url }}/_data/paper/EVAN_2024.pdf)\], \[[poster]({{ site.url }}/_data/slides/EVAN_2024.pdf)\] 
+- July 2024: [*EVAN*](https://www.istitutoveneto.it/evan2024), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, Istituto Veneto di Scienze, Lettere ed Arti, Venice, Italy \[[paper]({{ site.url }}/_data/papers/EVAN_2024.pdf)\], \[[poster]({{ site.url }}/_data/slides/EVAN_2024.pdf)\] 
 
 - June 2024: [*IMSC*](https://jds2024.sciencesconf.org/), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, Météo France, Toulouse, France \[[slides]({{ site.url }}/_data/slides/IMSC_2024.pdf)\]
 
