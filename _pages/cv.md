@@ -8,7 +8,7 @@ header:
 classes: wide
 ---
 
-My full cv, in english, is available [here]({{ site.url }}/_data/resume/resume.pdf) (last update: May 2024).
+My full CV in [English]({{ site.url }}/_data/resume/resume_eng.pdf) and in [French]({{ site.url }}/_data/resume/resume_fr.pdf) (last update: February 2025).
 
 ## Academic Background 
 
@@ -19,6 +19,6 @@ My full cv, in english, is available [here]({{ site.url }}/_data/resume/resume.p
 
 
 ## Internships
-* **September 2021 - September 2022:** Sandwich student  (*Quantification and modeling of mortality related to air pollution in the Montpellier agglomeration*) under the supervision of [Ulysse Rodts](https://fr.linkedin.com/in/ulysse-rodts) and [Grégoire Mercier](https://www.linkedin.com/in/gregoire-mercier-6579bb6/) for [KanopyMed](https://kanopymed.com/), Clapiers, France
+* **September 2021 - September 2022:** Sandwich student (*Quantification and modeling of mortality related to air pollution in the Montpellier agglomeration*) under the supervision of [Ulysse Rodts](https://fr.linkedin.com/in/ulysse-rodts) and [Grégoire Mercier](https://www.linkedin.com/in/gregoire-mercier-6579bb6/) for [KanopyMed](https://kanopymed.com/), Clapiers, France
 * **June - August 2021:**  Internship (*Extension of the `RKeOps` package, `R` interface of `KeOps` being a software allowing to make 2D array reduction calculations on GPUs*) under the supervision of [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/index.php?page=index) and [Ghislain Durif](https://gdurif.perso.math.cnrs.fr/), Institut Montpelliérain Alexander Grothendieck (IMAG - University of Montpellier), France
 * **June - July 2018:** Internship (*about Miller-Rabin primality test*) under the supervision of [Julien Keller](http://julienkeller.uqam.ca/), University of Aix-Marseille, France
