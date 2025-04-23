@@ -10,6 +10,8 @@ classes: wide
 
 # Talks
 
+- June 2025: [*Journées de Statistiques*](https://jds2025.sciencesconf.org/), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, University Saint-Charles Marseille, France \[[paper]({{ site.url }}/_data/papers/JDS_2025.pdf)\]
+
 - January 2025: [*PhD Seminar*](https://imag.umontpellier.fr/?page_id=625&idsem=596), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, IMAG, University of Montpellier, France \[[slides]({{ site.url }}/_data/slides/SemDoc_2025.pdf)\]
 
 - December 2024: [*Occimath Seminar*](https://indico.math.cnrs.fr/event/13025/), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, IMT, Toulouse, France \[[slides]({{ site.url }}/_data/slides/Occimath_2024.pdf)\]
