@@ -10,7 +10,11 @@ classes: wide
 
 # Talks
 
+- December 2025: [*SWGEN*](https://swgen2025.sciencesconf.org/), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, Grenoble, France \[[slides]({{ site.url }}/_data/slides/SWGEN_2025.pdf)\]
+
 - June 2025: [*Journées de Statistiques*](https://jds2025.sciencesconf.org/), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, University Saint-Charles Marseille, France \[[paper]({{ site.url }}/_data/papers/JDS_2025.pdf)\]
+
+- April 2025: [*EGU*](https://www.egu25.eu/), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, Vienna, Austria \[[slides]({{ site.url }}/_data/slides/EGU_2025.pdf)\]
 
 - January 2025: [*PhD Seminar*](https://imag.umontpellier.fr/?page_id=625&idsem=596), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, IMAG, University of Montpellier, France \[[slides]({{ site.url }}/_data/slides/SemDoc_2025.pdf)\]
 
