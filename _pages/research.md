@@ -10,7 +10,7 @@ classes: wide
 
 # Preprint
 
-- February, C. SERRE-COMBE, N. MEYER, T. OPITZ and G. TOULEMONDE, *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, \[[paper]({{ site.url }}/_data/papers/article.pdf)\]
+- 2026, C. SERRE-COMBE, N. MEYER, T. OPITZ and G. TOULEMONDE, *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, \[[paper]({{ site.url }}/_data/papers/article.pdf)\]
 
 # Talks
 
