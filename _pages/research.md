@@ -8,6 +8,10 @@ header:
 classes: wide
 ---
 
+# Preprint
+
+- February, C. SERRE-COMBE, N. MEYER, T. OPITZ and G. TOULEMONDE, *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, \[[paper]({{ site.url }}/_data/papers/article.pdf)\]
+
 # Talks
 
 - December 2025: [*SWGEN*](https://swgen2025.sciencesconf.org/), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, Grenoble, France \[[slides]({{ site.url }}/_data/slides/SWGEN_2025.pdf)\]
