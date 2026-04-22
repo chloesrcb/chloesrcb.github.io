@@ -10,9 +10,11 @@ classes: wide
 
 # Preprint
 
-- 2026, C. SERRE-COMBE, N. MEYER, T. OPITZ and G. TOULEMONDE, *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, \[[paper]({{ site.url }}/_data/papers/article.pdf)\]
+- 2026, C. SERRE-COMBE, N. MEYER, T. OPITZ and G. TOULEMONDE, *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, available at [hal-05517816](https://hal.science/hal-05517816)
 
 # Talks
+
+- February 2026: *Seminar*, *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, Laboratoire J.A. Dieudonné, Nice, France \[[slides]({{ site.url }}/_data/slides/seminaireNice_2026.pdf)\]
 
 - December 2025: [*SWGEN*](https://swgen2025.sciencesconf.org/), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, Grenoble, France \[[slides]({{ site.url }}/_data/slides/SWGEN_2025.pdf)\]
 
