@@ -8,7 +8,7 @@ header:
 classes: wide
 ---
 
-My full CV in [English]({{ site.url }}/_data/resume/resume_eng.pdf) and in [French]({{ site.url }}/_data/resume/resume_fr.pdf) (last update: February 2025).
+My full CV in [English]({{ site.url }}/_data/resume/resume_eng.pdf) and in [French]({{ site.url }}/_data/resume/resume_fr.pdf) (last update: April 2026).
 
 ## Academic Background 
 
