@@ -14,4 +14,5 @@ I am under the supervision of [Gwladys Toulemonde](https://imag.umontpellier.fr/
 
 * Extreme Value Theory
 * Dependence modeling
+* Statistical dowscaling
 * Geostatistics
