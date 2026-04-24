@@ -10,7 +10,7 @@ classes: wide
 
 # Preprint
 
-- Serre-Combe, C., Meyer, N., Opitz, T. and Toulemonde, G. (2026). \textit{Spatio-temporal modeling of urban extreme rainfall events at high resolution}. Submitted. Preprint: [hal-05517816](https://hal.science/hal-05517816) / [arXiv:2602.19774](https://arxiv.org/abs/2602.19774).
+- Serre-Combe, C., Meyer, N., Opitz, T. and Toulemonde, G. (2026). *Spatio-temporal modeling of urban extreme rainfall events at high resolution*. Submitted. Preprint: [hal-05517816](https://hal.science/hal-05517816) / [arXiv:2602.19774](https://arxiv.org/abs/2602.19774v2).
 
 # Talks
 
