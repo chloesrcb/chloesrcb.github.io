@@ -14,39 +14,39 @@ classes: wide
 
 # Talks
 
-- February 2026: *Seminar*, *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, Laboratoire J.A. Dieudonné, Nice, France \[[slides]({{ site.url }}/_data/slides/seminaireNice_2026.pdf)\]
+- February 2026: *Seminar*, *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, Laboratoire J.A. Dieudonné, Nice, France \[[slides]({{ site.url }}_data/slides/seminaireNice_2026.pdf)\]
 
-- December 2025: [*SWGEN*](https://swgen2025.sciencesconf.org/), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, Grenoble, France \[[slides]({{ site.url }}/_data/slides/SWGEN_2025.pdf)\]
+- December 2025: [*SWGEN*](https://swgen2025.sciencesconf.org/), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, Grenoble, France \[[slides]({{ site.url }}_data/slides/SWGEN_2025.pdf)\]
 
-- June 2025: [*Journées de Statistique*](https://jds2025.sciencesconf.org/), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, University Saint-Charles Marseille, France \[[paper]({{ site.url }}/_data/papers/JDS_2025.pdf)\]
+- June 2025: [*Journées de Statistique*](https://jds2025.sciencesconf.org/), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, University Saint-Charles Marseille, France \[[paper]({{ site.url }}_data/papers/JDS_2025.pdf)\]
 
-- April 2025: [*EGU*](https://www.egu25.eu/), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, Vienna, Austria \[[slides]({{ site.url }}/_data/slides/EGU_2025.pdf)\]
+- April 2025: [*EGU*](https://www.egu25.eu/), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, Vienna, Austria \[[slides]({{ site.url }}_data/slides/EGU_2025.pdf)\]
 
-- January 2025: [*PhD Seminar*](https://imag.umontpellier.fr/?page_id=625&idsem=596), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, IMAG, University of Montpellier, France \[[slides]({{ site.url }}/_data/slides/SemDoc_2025.pdf)\]
+- January 2025: [*PhD Seminar*](https://imag.umontpellier.fr/?page_id=625&idsem=596), *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, IMAG, University of Montpellier, France \[[slides]({{ site.url }}_data/slides/SemDoc_2025.pdf)\]
 
-- December 2024: [*Occimath Seminar*](https://indico.math.cnrs.fr/event/13025/), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, IMT, Toulouse, France \[[slides]({{ site.url }}/_data/slides/Occimath_2024.pdf)\]
+- December 2024: [*Occimath Seminar*](https://indico.math.cnrs.fr/event/13025/), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, IMT, Toulouse, France \[[slides]({{ site.url }}_data/slides/Occimath_2024.pdf)\]
 
-- July 2024: [*EVAN*](https://www.istitutoveneto.it/evan2024), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, Istituto Veneto di Scienze, Lettere ed Arti, Venice, Italy \[[paper]({{ site.url }}/_data/papers/EVAN_2024.pdf)\], \[[poster]({{ site.url }}/_data/slides/EVAN_2024.pdf)\] 
+- July 2024: [*EVAN*](https://www.istitutoveneto.it/evan2024), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, Istituto Veneto di Scienze, Lettere ed Arti, Venice, Italy \[[paper]({{ site.url }}_data/papers/EVAN_2024.pdf)\], \[[poster]({{ site.url }}_data/slides/EVAN_2024.pdf)\] 
 
-- June 2024: [*IMSC*](https://jds2024.sciencesconf.org/), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, Météo France, Toulouse, France \[[slides]({{ site.url }}/_data/slides/IMSC_2024.pdf)\]
+- June 2024: [*IMSC*](https://jds2024.sciencesconf.org/), *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, Météo France, Toulouse, France \[[slides]({{ site.url }}_data/slides/IMSC_2024.pdf)\]
 
 - June 2024: [*Journées MIPS*](https://jds2024.sciencesconf.org/), *Modeling moderate and extreme urban rainfall at
-high spatio-temporal resolution*, Montpellier, France \[[slides]({{ site.url }}/_data/slides/MIPS_2024.pdf)\]
+high spatio-temporal resolution*, Montpellier, France \[[slides]({{ site.url }}_data/slides/MIPS_2024.pdf)\]
 
 - May 2024: [*Journées de Statistique*](https://jds2024.sciencesconf.org/), *Modeling moderate and extreme urban rainfall at
-high spatio-temporal resolution*, Bordeaux, France \[[paper]({{ site.url }}/_data/papers/JDS_2024.pdf)\]
+high spatio-temporal resolution*, Bordeaux, France \[[paper]({{ site.url }}_data/papers/JDS_2024.pdf)\]
 
 - April 2024: [*Rencontres des Jeunes Statisticiens*](https://rjs2024.sciencesconf.org/), *Modeling moderate and extreme urban rainfall at
-high spatio-temporal resolution*, Porquerolles, France \[[slides]({{ site.url }}/_data/slides/RJS_2024.pdf)\]
+high spatio-temporal resolution*, Porquerolles, France \[[slides]({{ site.url }}_data/slides/RJS_2024.pdf)\]
 
-- September 2023: *Workshop* [*ANR MUFFINS*](https://anr.fr/Projet-ANR-21-CE04-0021), *Modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, Aix-en-Provence, France \[[slides]({{ site.url }}/_data/slides/MUFFINS_2023_modif.pdf)\]
+- September 2023: *Workshop* [*ANR MUFFINS*](https://anr.fr/Projet-ANR-21-CE04-0021), *Modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, Aix-en-Provence, France \[[slides]({{ site.url }}_data/slides/MUFFINS_2023_modif.pdf)\]
 
-- July 2023: [*Journées de Statistique*](https://jds2023.sciencesconf.org/), *Modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, [Université libre de Bruxelles](https://www.ulb.be/), Belgium \[[paper]({{ site.url }}/_data/papers/JDS_2023.pdf)\], \[[slides]({{ site.url }}/_data/slides/JDS_2023.pdf)\]
+- July 2023: [*Journées de Statistique*](https://jds2023.sciencesconf.org/), *Modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, [Université libre de Bruxelles](https://www.ulb.be/), Belgium \[[paper]({{ site.url }}/_data/papers/JDS_2023.pdf)\], \[[slides]({{ site.url }}_data/slides/JDS_2023.pdf)\]
 
 - June 2023: [*EVA*](https://dec.unibocconi.eu/research/extreme-value-analysis-eva-2023), *Modeling moderate and extreme urban rainfall at
 high spatio-temporal resolution*, [Bocconi University](https://www.unibocconi.eu/), Milano, Italy \[[poster]({{ site.url }}/_data/slides/EVA_2023.pdf)\]
 
-- June 2023: [*Journée RESSTE*](https://reseau-resste.mathnum.inrae.fr/node/28), *Vers la modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, [FRUMAM](https://frumam.cnrs-mrs.fr/presentation/), Marseille, France \[[slides]({{ site.url }}/_data/slides/RESSTE_2023.pdf)\]
+- June 2023: [*Journée RESSTE*](https://reseau-resste.mathnum.inrae.fr/node/28), *Vers la modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, [FRUMAM](https://frumam.cnrs-mrs.fr/presentation/), Marseille, France \[[slides]({{ site.url }}_data/slides/RESSTE_2023.pdf)\]
 
 
 
