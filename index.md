@@ -16,3 +16,4 @@ I am under the supervision of [Gwladys Toulemonde](https://imag.umontpellier.fr/
 * Dependence modeling
 * Statistical dowscaling
 * Geostatistics
+* Climate science and meteorology
