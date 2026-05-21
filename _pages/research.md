@@ -10,18 +10,18 @@ classes: wide
 
 # Publications
 
-## Preprint
+#### Preprint
 
 - Serre-Combe, C., Meyer, N., Opitz, T. and Toulemonde, G. (Feb. 2026). *Spatio-temporal modeling of urban extreme rainfall events at high resolution*. Submitted. Preprint: [hal-05517816](https://hal.science/hal-05517816) / [arXiv:2602.19774](https://arxiv.org/abs/2602.19774v2).
 
-## In Proceedings of Conferences
+#### In Proceedings of Conferences
 
 - Serre-Combe, C., Meyer, N., Opitz, T. and Toulemonde, G. (June 2025). *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, Journées de Statistique (JDS) \[[paper]({{ site.url }}_data/papers/JDS_2025.pdf)\]
 
 - Serre-Combe, C., Meyer, N., Opitz, T. and Toulemonde, G. (July 2024). *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, EVAN \[[paper]({{ site.url }}_data/papers/EVAN_2024.pdf)\]
 
 - Serre-Combe, C., Meyer, N., Opitz, T. and Toulemonde, G. (May 2024). *Modeling moderate and extreme urban rainfall at high spatio-temporal resolution*, JDS \[[paper]({{ site.url }}_data/papers/JDS_2024.pdf)\]
-- 
+
 - Serre-Combe, C., Meyer, N., Opitz, T. and Toulemonde, G. (June 2023). *Modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, Journées de Statistique (JDS) \[[paper]({{ site.url }}/_data/papers/JDS_2023.pdf)\]
 
 
