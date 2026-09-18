@@ -1,19 +1,19 @@
 ---
-
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 header:
-overlay_color: "#4bafa2"
-overlay_filter: "0.1"
+  overlay_color: "#4bafa2"
+  overlay_filter: "0.1"
 classes: wide
--------------
+---
+
 
 My full CV is available in [English]({{ site.url }}/_data/resume/resume_eng.pdf) and in [French]({{ site.url }}/_data/resume/resume_fr.pdf) (last update: Sept. 2026).
 
 ## Current position
 
-* **2025–2027:** Temporary Lecturer and Researcher (ATER), University of Montpellier, France
+* **2026–2027:** Temporary Lecturer and Researcher (ATER), University of Montpellier, France
 
 ## Academic Background
 
