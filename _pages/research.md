@@ -24,8 +24,13 @@ classes: wide
 
 - Serre-Combe, C., Meyer, N., Opitz, T. and Toulemonde, G. (June 2023). *Modélisation statistique de précipitations urbaines à fine échelle spatio-temporelle*, Journées de Statistique (JDS) \[[paper]({{ site.url }}/_data/papers/JDS_2023.pdf)\]
 
+# PhD Thesis
+
+- Serre-Combe, C. (2026). *Stochastic generator of precipitation at a high spatio-temporal resolution*. PhD thesis in Statistics, University of Montpellier, France. Defended on September 16, 2026. \[[slides]({{ site.url }}/_data/slides/PhD_defense_16_09_2026.pdf)\] *Manuscript forthcoming.*
 
 # Talks
+
+- May 2026: *Invited Seminar*, *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, IMAG, Rencontres Montpellier Sherbrooke \[[slides]({{ site.url }}_data/slides/MtpSherb_2026.pdf)\]
 
 - May 2026: *Invited Seminar*, *Spatio‑temporal modeling of urban extreme rainfall events at high resolution*, KIT, Karlsruhe, Germany \[[slides]({{ site.url }}_data/slides/KIT_2026.pdf)\]
 
